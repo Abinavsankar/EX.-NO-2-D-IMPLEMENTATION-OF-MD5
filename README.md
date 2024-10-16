@@ -15,6 +15,7 @@
   STEP-5: Finally, right shift of ‘s’ times are performed and the results are combined together to produce the final output.
   
 ## PROGRAM:
+```
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
@@ -121,7 +122,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f79f5005-6102-4c67-947a-fd080942ff39)
 
